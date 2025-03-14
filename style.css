@@ -134,10 +134,6 @@ label {
   background: var(--blue);
 }
 
-#instruction {
-  background-color: black;
-}
-
 #footer {
   background-color: var(--black) !important;
   color: var(--white);
