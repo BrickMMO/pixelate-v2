@@ -13,7 +13,7 @@ if (isset($_SESSION['displayed']) && $_SESSION['displayed'] === true) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Convert Image to Pixelated Image</title>
+    <title>Pixelate | BrickMMO</title>
     <link rel="stylesheet" href="./style.css">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
